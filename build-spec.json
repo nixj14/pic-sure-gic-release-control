@@ -17,7 +17,7 @@
       "project_job_git_key":"PSHU",
       "git_hash": "61069507b4f86b80347a7ef4d66bfc5f794f3357"
     },{
-      "project_name": "gic-ui",
+      "project_name": "project-specific-ui",
       "project_job_git_key":"PSU",
       "git_hash": "6d572e89b145fc12103cc8a77d223fd1db814f56"
     }
